@@ -1,0 +1,4 @@
+#Thu Dec 22 14:31:37 BRST 2016
+base.0=/home/josenaves/Documents/dispatchr/HEREMaps3.3/HERE-sdk/HERE-sdk/tutorial/BasicMapSolution/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/josenaves/Documents/dispatchr/HEREMaps3.3/HERE-sdk/HERE-sdk/tutorial/BasicMapSolution/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
